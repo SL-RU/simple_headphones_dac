@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# PJ-320_3.5_jack
+#
+DEF PJ-320_3.5_jack U 0 40 Y Y 1 F N
+F0 "U" 0 -550 60 H V C CNN
+F1 "PJ-320_3.5_jack" 0 -50 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+S -150 -150 150 -600 0 1 0 N
+S -100 -150 100 -100 0 1 0 N
+X ~ 1 -250 -200 98 R 50 50 1 1 I
+X ~ 2 250 -200 98 L 50 50 1 1 I
+X ~ 3 -250 -350 98 R 50 50 1 1 I
+X ~ 4 -250 -500 98 R 50 50 1 1 I
+X ~ 5 250 -500 98 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
