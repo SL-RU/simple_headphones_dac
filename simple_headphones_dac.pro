@@ -1,4 +1,4 @@
-update=Вт 02 авг 2016 16:53:36
+update=Ср 03 авг 2016 21:24:20
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -61,3 +59,5 @@ LibName29=valves
 LibName30=cs4335
 LibName31=tda2822
 LibName32=pj-320_jack
+[general]
+version=1
